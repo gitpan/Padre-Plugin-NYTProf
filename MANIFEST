@@ -1,0 +1,16 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+README
+dist.ini
+lib/Padre/Plugin/NYTProf.pm
+lib/Padre/Plugin/NYTProf/ProfilingTask.pm
+share/locale/Padre__Plugin__NYTProf-ar.mo
+t/00-compile.t
+t/00-load.t
+t/release-check-changes.t
+t/release-eol.t
+t/release-pod-syntax.t
