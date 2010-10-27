@@ -1,6 +1,6 @@
 package Padre::Plugin::NYTProf;
 BEGIN {
-  $Padre::Plugin::NYTProf::VERSION = '0.01';
+  $Padre::Plugin::NYTProf::VERSION = '0.02';
 }
 
 # ABSTRACT: Integrated profiling for Padre.
@@ -138,7 +138,7 @@ Padre::Plugin::NYTProf - Integrated profiling for Padre.
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
