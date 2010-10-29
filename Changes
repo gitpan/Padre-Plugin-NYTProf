@@ -1,5 +1,8 @@
 Revision history for Padre-Plugin-NYTProf
 
+0.03   2010.10.29
+	- Removed Test::NeedsDisplay dependency (AZAWAWI)
+
 0.02   2010.10.27
 	- t/00-load.t is magically injected by [@PadrePlugin] via [LoadTests] (AZAWAWI)
 

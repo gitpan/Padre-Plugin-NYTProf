@@ -1,6 +1,6 @@
 package Padre::Plugin::NYTProf::ProfilingTask;
 BEGIN {
-  $Padre::Plugin::NYTProf::ProfilingTask::VERSION = '0.02';
+  $Padre::Plugin::NYTProf::ProfilingTask::VERSION = '0.03';
 }
 
 # ABSTRACT: Creates a Padre::Task to do the profiling in the background.
@@ -105,7 +105,7 @@ Padre::Plugin::NYTProf::ProfilingTask - Creates a Padre::Task to do the profilin
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 
